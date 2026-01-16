@@ -12,6 +12,8 @@ This Python version I made is against a CPU and is 1v1. I plan to potentially ad
 
 # UPDATES
 - 3 player added, two bots 1 player
+- Shuffle option added, shuffles the cards in the player's hand. Makes it harder to get a pair from opponents
+- Graphics added via matplotlib
 
 ------------------------------------
 
@@ -19,4 +21,3 @@ This Python version I made is against a CPU and is 1v1. I plan to potentially ad
 
 - Add more bots (3 - 5)
 - Give bots thinking (Currently they choose player cards randomly, but I want to add it so that if there is a person with a low amount of cards, they will favor those with more cards.)
-- use matplotlib to add graphics to the game.
